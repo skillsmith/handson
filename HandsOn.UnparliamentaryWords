@@ -1,0 +1,16 @@
+Hands On
+
+[Concepts Covered] --> {ArrayList, File Write}
+
+[Problem Statement] -->
+
+{
+Define a set of unparliamentary words in an array list. Accept words from user. If the words taken from user is not in the aray list, write into a file by name "AcceptableWords.txt"
+}
+
+
+[Sample] -->
+
+{
+...
+}

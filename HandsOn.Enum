@@ -1,0 +1,23 @@
+Hands On
+
+[Concepts Covered] --> {Enum with Data}
+
+[Problem Statement] -->
+
+{
+Create an enum by name BlueJeans and load the top five brands in the market.
+
+Each brand should have 2 data associated with it - current popularity (High, Normal, Low) and avg price ($100)
+
+Write another class to refer to this enum, iterate thru the enum for all five brands and print the corresponding popularity and price.
+
+}
+
+
+[Sample] -->
+
+{
+Levi's Low $100
+Wrangler Normal $80
+...
+}

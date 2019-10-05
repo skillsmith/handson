@@ -1,0 +1,21 @@
+Hands On
+
+[Concepts Covered] --> {Array, Logical operators, case-structure conditional, for-each looping}
+
+[Problem Statement] -->
+
+{
+Accept one letter at a time of the word from the user and put it into a char array. Check for the presence of letters
+
+	1. a or e, print bing!
+	2. s and n, print sing!
+	3. p and i, print ping
+	4. none of the above satisfied, print ding!
+}
+
+
+[Sample] -->
+
+{
+
+}

@@ -1,0 +1,20 @@
+Hands On
+
+[Concepts Covered] --> {Inheritance, Use of Super Constructors}
+
+[Problem Statement] -->
+
+{
+Create a class by name WebElement. Define attributes - id, name, enabled, disabled. Define methods - disableElement, hideElement.
+
+Create a Link class that inherit the WebElement as superclass. Add attribute to Link - href. Add method - click. When an instance of Link is created, it should use WebElement constructor set the name, id, visible attributes.
+
+Decide appropriate date types and return types (if any) for attributes and methods.
+}
+
+
+[Sample] -->
+
+{
+...
+}

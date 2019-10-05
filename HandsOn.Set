@@ -1,0 +1,20 @@
+Hands On
+
+[Concepts Covered] --> {Set}
+
+[Problem Statement] -->
+
+{
+Create a class by name NorthDallasCity. Define attributes - Downtown zip code, name, specialty of the city.
+Create few instances for this class.
+
+Add them to a Set. Iterate thru the set and pick that one if its name is Plano.
+
+}
+
+
+[Sample] -->
+
+{
+...
+}

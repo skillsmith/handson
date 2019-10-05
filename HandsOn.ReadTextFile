@@ -1,0 +1,26 @@
+Hands On
+
+[Concepts Covered] --> {File I/O (read)}
+
+[Problem Statement] -->
+
+{
+Create a file name as MikeGrawe.txt. It will contains the following details one per line.
+
+Name=Mike Grawe
+Emp_ID=123456789
+Salary = $ 230,000
+Date_of_Joining=02-Feb-2002
+Years_in_Org=17
+
+
+Read MikeGrawe.txt, extract the date of joining and print the year of joining alone.
+
+}
+
+
+[Sample] -->
+
+{
+2002
+}

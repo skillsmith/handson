@@ -1,0 +1,26 @@
+Hands On
+
+[Concepts Covered] --> {String manipulation}
+
+[Problem Statement] -->
+
+{
+"Mr. D'Souza went to 7/11 to buy beef jerky!"
+
+In the above string, perform the following:
+	1. Remove all the special characters
+	2. find the position of beef
+	3. replace "beef jerky" with "peanut butter"
+	4. end the sentence with :-)
+
+}
+
+
+[Sample] -->
+
+{
+"Mr DSouza went to 711 to buy beef jerky"
+32
+"Mr DSouza went to 711 to buy peanut butter"
+"Mr DSouza went to 711 to buy peanut butter :-)"
+}

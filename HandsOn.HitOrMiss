@@ -1,0 +1,26 @@
+Hands On
+
+[Concepts Covered] --> {boolean array, if-else, loop}
+
+[Problem Statement] -->
+
+{
+Declare and initialize a boolean array of size 10. Iterate thru the array and print "Hit" if that position has true, "Miss" if that position has false.
+}
+
+
+[Sample] -->
+
+{
+For array containing [true, true, false, false, false, false, true, true, true, true] 
+Hit
+Hit
+Miss
+Miss
+Miss
+Miss
+Hit
+Hit
+Hit
+Hit
+}

@@ -1,0 +1,30 @@
+Hands On
+
+[Concepts Covered] --> {Primitives data types, Logical operators (boolean expression), Modulo operator, if, do-while looping	}
+
+[Problem Statement] -->
+
+{
+Declare and use smallest numeric data type - byte. Initiatilize it to zero. Use a loop to increment by +1 for each loop. If the current count is a multiple of 10, print "Dekho dekho it is Deca". 
+}
+
+
+[Sample] -->
+
+{
+...
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+20 is a multiple of 10
+21
+22
+...
+}

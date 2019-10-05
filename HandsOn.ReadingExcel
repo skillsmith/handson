@@ -1,0 +1,19 @@
+Hands On
+
+[Concepts Covered] --> {Apache POI, Excel}
+
+[Problem Statement] -->
+
+{
+Create and refer to an XLSX by name Tool.XLSX. Put in few rows of data into worksheet by name "MyToolKit", with columns - tool name<string>, size<number>, Bosch Make? <boolean>, Remarks <string>.
+
+Read this excel file, and print the details of the row only if the tool size is > 10, not a Bosch make and remarks is blank.
+
+}
+
+
+[Sample] -->
+
+{
+Wrench, 20, False,
+}

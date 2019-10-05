@@ -1,0 +1,31 @@
+Hands On
+
+[Concepts Covered] --> {Arithmetic operators, case-structure conditional, looping}
+
+[Problem Statement] -->
+
+{
+Build a simple "Calculator" program. Accept the operation to be performed from the user and display the result. Continue to perform the operations based on user inputs, with 2 operands, till (s)he wants to quit.
+}
+
+
+[Sample] -->
+
+{
+Select one of the following arithmetic operation
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+
+User inputs	==>  Add
+Enter your first operand
+User inputs	==>  100
+Enter your second operand
+User inputs	==>  200
+300.0
+Please enter 'x' to quit, 'c' to continue
+300.0
+User inputs	==>  x
+Thanks for using calculator, bye!
+}
